@@ -1,5 +1,7 @@
 import cv2
+import numpy as np
 import mediapipe as mp
+
 mp_face_detection = mp.solutions.face_detection
 mp_drawing = mp.solutions.drawing_utils
 
@@ -26,7 +28,6 @@ with mp_face_detection.FaceDetection(
 # For webcam input:
 
 # my things
-billie = 0
 cap = cv2.VideoCapture(0)
 with mp_face_detection.FaceDetection(
     model_selection=1, min_detection_confidence=0.5) as face_detection:
