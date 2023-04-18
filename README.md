@@ -2,13 +2,13 @@
 
 # How to use it?
 
-Clone. Install. Run. That is all.
+Clone. Install. Run CLI. That is all.
 ```shell
 git clone https://github.com/mtxslv/face_effect
 cd face_effect
 poetry install .
 poetry shell
-python face_effect.py
+python face_effect/cli.py
 ```
 
 
