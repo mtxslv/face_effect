@@ -1,6 +1,20 @@
 # Welcome to face_effect!
 
-I've always thought instagram/tiktok blur face effect is very aesthetic. I decided to create it myself, and the end result is in this repo, and you can use it yourself!
+I've always thought instagram/tiktok blur face effect is very aesthetic. I decided to create it myself, and the end result is in this repo, and you can use it yourself! Here it goes some results:
+
+<p align="center">
+  <img alt="Original" src="./test_images/billie.jpg" width="20%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Processed" src="./test_images/processed_billie.jpg" width="20%">
+</p>
+
+<p align="center">
+  <img alt="Original" src="./test_images/twknd.jpg" width="40%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Processed" src="./test_images/processed_twknd.jpg" width="40%">
+</p>
+
+
 
 # How to use it?
 
